@@ -1,0 +1,20 @@
+
+.section.one {
+    flex: 1;
+    background-color: #1f2937;
+}
+
+.section .two {
+    flex: 1;
+    background-color: white;
+}
+
+.section .three {
+    flex: 1;
+    background-color: #e5e7eb;
+}
+
+.section .four {
+    flex: 1;
+    background-color: white;
+}
