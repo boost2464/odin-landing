@@ -6,28 +6,32 @@
 .sectionone {
     flex: auto;
     background-color: #1f2937;
-    border: 4px solid brown
+    border: 4px solid brown;
+    display: flex;
 }
-.h3 {
+h3 {
     font-size: 48px;
     font-weight: bolder;
-    font-display: #f9faf8;
+    color:  #f9faf8;
 }
 
 .sectiontwo {
     flex: auto;
     background-color: white;
-    border: 4px solid brown
+    border: 4px solid brown;
+    display: flex;
 }
 
 .sectionthree {
     flex: auto;
     background-color: #E5E7EB;
-    border: 4px solid brown
+    border: 4px solid brown;
+    display: flex;
 }
 
 .sectionfour {
     flex: auto;
     background-color: white;
-    border: 4px solid brown
+    border: 4px solid brown;
+    display: flex;
 }
